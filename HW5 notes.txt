@@ -1,0 +1,15 @@
+zero the mean for covariance matrix
+
+Gender highly coorelated -> check for coorelation. then prune features to make them better
+
+PCA feature 1 is a combination of original dimension 1 and original dimension 2
+
+PCA unsupervised so be careful just because it matches the PCA line doesn't mean you can tell the fitted data apart still
+
+For HW4 mean changes but covariance stays the same
+
+For Diagonal Loading:
+just check the training data to see
+
+Calculating Covariance Matrix*
+
